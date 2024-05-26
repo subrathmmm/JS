@@ -12,4 +12,41 @@ const user = {
 user.username = "sam";
 // user.welcomeMessage();
 
-console.log(this);
+// console.log(this);
+
+// function chai(){
+//     let username = "ssubrat";
+//     console.log(this.username)
+// }
+// chai();
+
+//const chai = function(){
+    //let username = "subrat";
+    // console.log(this.username);
+//}
+// chai();
+
+// const chai = () => {
+//     let username = "suubraat";
+//     console.log(this)
+// }
+// chai();
+
+
+// const addTwo = (num1,  num2) =>{
+//     return num1 + num2;
+// }
+
+// const addTwo = (num1, num2) => num1 + num2;
+
+// const addTwo = (num1 , num2) => (num1 + num2);
+
+// const addTwo = (num1, num2) => ({username: "subrattttt"})
+
+
+console.log(addTwo(3,5));
+
+// const myArray = [2, 5, 3, 7, 8]
+
+// myArray.forEach()
+
